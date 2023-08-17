@@ -10,6 +10,5 @@ footer {
         display: flex;
         justify-content: center;
         position: absolute;
-        line-height: 60px;
         bottom: 0;
 }
